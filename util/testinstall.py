@@ -1,3 +1,4 @@
+import sys
 import torch
 import numpy as np
 import torchvision
@@ -99,6 +100,6 @@ def run_tests():
     print(results)
 
 
-
 if __name__ == '__main__':
     run_tests()
+    print(sys.version)
