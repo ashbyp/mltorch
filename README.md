@@ -1,3 +1,3 @@
 # mltorch
 
-Machine learning examples using PyTorch
+Machine learning examples using PyTorch and Google colab
