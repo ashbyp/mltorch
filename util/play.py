@@ -74,4 +74,5 @@ def play_with_gradients():
 
 if __name__ == '__main__':
     #play_with_tensors()
-    play_with_gradients()
+    #play_with_gradients()
+    pass
